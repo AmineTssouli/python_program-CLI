@@ -1,2 +1,2 @@
 # python_program
-Python CLI program that add/edit/delete records from this type of files (Excel,Json,Csv)
+Python CLI program that Create/Read/Update/Delete records from these type of files (Excel,Json,Csv) and shows plot using Pandas.
